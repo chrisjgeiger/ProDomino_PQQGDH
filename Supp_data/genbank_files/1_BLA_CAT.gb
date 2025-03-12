@@ -1,0 +1,127 @@
+LOCUS       1_BLA_CAT               3119 bp    DNA     circular UNA 25-NOV-2024
+DEFINITION  Ligation of 2 sequences.
+ACCESSION   urn.local...j-ihpzuba
+VERSION     urn.local...j-ihpzuba
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     promoter        70..98
+                     /note="AmpR_promoter"
+                     /label="AmpR_promoter"
+     gene            140..1000
+                     /gene="Ampicillin"
+                     /note="Ampicillin"
+                     /label="Ampicillin"
+     rep_origin      1155..1774
+                     /note="Derived using Geneious Prime 2022.1.1 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="H2B-GFP 5107"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0;
+                     pBR322_origin (<a href=""urn:local:.:5b-dtz7rkj"">H2B-GFP
+                     5107</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:-16/15;
+                     ori (<a href=""urn:local:.:3k-bf390nu"">pMuDest_TnsB</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:-16/15;
+                     ori (<a href=""urn:local:.:q-br8o5qa"">pQE 80L Kan T7WT
+                     </a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:-16/15;
+                     ori (<a
+                     href=""urn:local:.:1s-bf382h5"">pMuDest_AraC_const</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:-16/15;
+                     ori (<a
+                     href=""urn:local:.:e-dwogkzu"">pBAD24_AcrIIA5</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:-16/15;
+                     ori (<a href=""urn:local:.:2m-bf38gbz"">pMuDest_FLP</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:-16/15;
+                     ori (<a href=""urn:local:.:22-edtj0bh"">Ligated
+                     sequences</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:-16/15;
+                     ori (<a
+                     href=""urn:local:.:q-ebox96j"">3057_pBAD24_CASANOVA_linker
+                     _lib</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:-16/15;
+                     ori (<a
+                     href=""urn:local:.:w-dwohd92"">pBAD24_AcrIIA4</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:-16/15;
+                     ori (<a
+                     href=""urn:local:.:1f-f5a00e6"">3407_pASK75_AraC_I113_LOV<
+                     /a>)"
+                     /label="pBR322_origin"
+     promoter        1834..1936
+                     /note="promoter of the E. coli cat gene encoding 
+                     chloramphenicol acetyltransferase"
+                     /label="promoter"
+     gene            1937..2596
+                     /gene="CAT/CamR"
+                     /label="CAT/CamR gene"
+     terminator      complement(2617..2711)
+                     /note="transcription terminator from phage lambda"
+                     /label="terminator"
+     terminator      2617..2711
+                     /note="transcription terminator from phage lambda"
+                     /label="terminator"
+     terminator      complement(2731..2758)
+                     /note="transcription terminator T2 from the E. coli rrnB 
+                     gene"
+                     /label="terminator"
+     terminator      complement(2850..2936)
+                     /gene="Escherichia coli rrnB"
+                     /note="transcription terminator T1 from the E. coli rrnB 
+                     gene"
+                     /label="Escherichia coli rrnB terminator"
+ORIGIN      
+        1 gacgacgtca ggtggcactt ttcggggaaa tgtgcgcgga acccctattt gtttattttt
+       61 ctaaatacat tcaaatatgt atccgctcat gagacaataa ccctgataaa tgcttcaata
+      121 atattgaaaa aggaagagta tgagtattca acatttccgt gtcgccctta ttcccttttt
+      181 tgcggcattt tgccttcctg tttttgctca cccagaaacg ctggtgaaag taaaagatgc
+      241 tgaagatcag ttgggtgcac gagtgggtta catcgaactg gatctcaaca gcggtaagat
+      301 ccttgagagt tttcgccccg aagaacgttt tccaatgatg agcactttta aagttctgct
+      361 atgtggcgcg gtattatccc gtattgacgc cgggcaagag caactcggtc gccgcataca
+      421 ctattctcag aatgacttgg ttgagtactc accagtcaca gaaaagcatc ttacggatgg
+      481 catgacagta agagaattat gcagtgctgc cataaccatg agtgataaca ctgcggccaa
+      541 cttacttctg acaacgatcg gaggaccgaa ggagctaacc gcttttttgc acaacatggg
+      601 ggatcatgta actcgccttg atcgttggga accggagctg aatgaagcca taccaaacga
+      661 cgagcgtgac accacgatgc ctgtagcaat ggcaacaacg ttgcgcaaac tattaactgg
+      721 cgaactactt actctagctt cccggcaaca attaatagac tggatggagg cggataaagt
+      781 tgcaggacca cttctgcgct cggcccttcc ggctggctgg tttattgctg ataaatctgg
+      841 agccggtgag cgtgggtctc gcggtatcat tgcagcactg gggccagatg gtaagccctc
+      901 ccgtatcgta gttatctaca cgacggggag tcaggcaact atggatgaac gaaatagaca
+      961 gatcgctgag ataggtgcct cactgattaa gcattggtaa ctgtcagacc aagtttactc
+     1021 atatatactt tagattgatt taaaacttca tttttaattt aaaaggatct aggtgaagat
+     1081 cctttttgat aatctcatga ccaaaatccc ttaacgtgag ttttcgttcc actgagcgtc
+     1141 agaccccgta gaaaagatca aaggatcttc ttgagatcct ttttttctgc gcgtaatctg
+     1201 ctgcttgcaa acaaaaaaac caccgctacc agcggtggtt tgtttgccgg atcaagagct
+     1261 accaactctt tttccgaagg taactggctt cagcagagcg cagataccaa atactgtcct
+     1321 tctagtgtag ccgtagttag gccaccactt caagaactct gtagcaccgc ctacatacct
+     1381 cgctctgcta atcctgttac cagtggctgc tgccagtggc gataagtcgt gtcttaccgg
+     1441 gttggactca agacgatagt taccggataa ggcgcagcgg tcgggctgaa cggggggttc
+     1501 gtgcacacag cccagcttgg agcgaacgac ctacaccgaa ctgagatacc tacagcgtga
+     1561 gctatgagaa agcgccacgc ttcccgaagg gagaaaggcg gacaggtatc cggtaagcgg
+     1621 cagggtcgga acaggagagc gcacgaggga gcttccaggg ggaaacgcct ggtatcttta
+     1681 tagtcctgtc gggtttcgcc acctctgact tgagcgtcga tttttgtgat gctcgtcagg
+     1741 ggggcggagc ctatggaaaa acgccagcaa cgcggccttt ttacggttcc tggccttttg
+     1801 ctggcctttt gctcacatga acaataaaac tgttgatcgg cacgtaagag gttccaactt
+     1861 tcaccataat gaaataagat cactaccggg cgtatttttt tagttatcga gattttcagg
+     1921 agctaaggaa gctaaaatgg agaaaaaaat cactggatat accaccgttg atatatccca
+     1981 atggcatcgt aaagaacatt ttgaggcatt tcagtcagtt gctcaatgta cctataacca
+     2041 gaccgttcag ctggatatta cggccttttt aaagaccgta aagaaaaata agcacaagtt
+     2101 ttatccggcc tttattcaca ttcttgcccg cctgatgaat gctcatccgg aatttcgtat
+     2161 ggcaatgaaa gacggtgagc tggtgatatg ggatagtgtt cacccttgtt acaccgtttt
+     2221 ccatgagcaa actgaaacgt tttcatcgct cttgagtgaa taccacgacg atttccggca
+     2281 gtttctacac atatattcgc aagatgtggc gtgttacggt gaaaacctgg cctatttccc
+     2341 taaagggttt attgagaata tgtttttcgt ttcagccaat ccctgggtga gtttcaccag
+     2401 ttttgattta aacgtggcca atatggacaa cttcttcgcc cccgttttca ccatgggcaa
+     2461 atattatacg caaggcgaca aggtgctgat gccgctggcg attcaggttc atcatgccgt
+     2521 ttgtgatggc ttccatgtcg gcagaatgct taatgaatta caacagtact gcgatgagtg
+     2581 gcagggcggg gcgtaatttg atatcgagct cgcttggact cctgttgata gatccagtaa
+     2641 tgacctcaga actccatctg gatttgttca gaacgctcgg ttgccgccgg gcgtttttta
+     2701 ttggtgagaa tatatagttc ctcctttcag aaaaggccat ccgtcaggat ggccttctgc
+     2761 ttaatttgat gcctggcagt ttatggcggg cgtcctgccc gccaccctcc gggccgttgc
+     2821 ttcgcaacgt tcaaatccgc tcccggcgga tttgtcctac tcaggagagc gttcaccgac
+     2881 aaacaacaga taaaacgaaa ggcccagtct ttcgactgag cctttcgttt tatttgatgc
+     2941 ctggcagttc cctactctcg catggggata ccccacacta ccatcggcgc tacggcgttt
+     3001 cacttctgag ttcggcatgg ggtcaggtgg gaccaccgcg ctactgccgc caggcaaatt
+     3061 ctgttttatc agaccgcttc tgcgttctga tttaatctgt atcaggctga aaaatcgtc
+//

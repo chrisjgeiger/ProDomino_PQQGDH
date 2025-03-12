@@ -1,0 +1,82 @@
+,Sample,variable,value,Condition,Replicate
+0,no PAC_no_puro,Condition 1 rep 1,1.98150003,Dark, 1
+1,PAC_wt_no_puro,Condition 1 rep 1,1.818400025,Dark, 1
+2,no PAC_puro,Condition 1 rep 1,0.359499991,Dark, 1
+3,PAC_wt_puro,Condition 1 rep 1,1.319900036,Dark, 1
+4,D29,Condition 1 rep 1,0.388900012,Dark, 1
+5,G58,Condition 1 rep 1,0.383100003,Dark, 1
+6,V75,Condition 1 rep 1,0.412800014,Dark, 1
+7,S81,Condition 1 rep 1,1.114599943,Dark, 1
+8,V82,Condition 1 rep 1,1.019999981,Dark, 1
+9,E83,Condition 1 rep 1,1.357900023,Dark, 1
+10,A84,Condition 1 rep 1,1.185199976,Dark, 1
+11,G85,Condition 1 rep 1,1.275599957,Dark, 1
+12,A86,Condition 1 rep 1,1.534500003,Dark, 1
+13,S101,Condition 1 rep 1,0.541999996,Dark, 1
+14,G111,Condition 1 rep 1,0.325599998,Dark, 1
+15,K119,Condition 1 rep 1,0.562900007,Dark, 1
+16,E120,Condition 1 rep 1,0.733200014,Dark, 1
+17,P121,Condition 1 rep 1,0.666400015,Dark, 1
+18,P185,Condition 1 rep 1,0.725000024,Dark, 1
+19,E83-7GS,Condition 1 rep 1,1.367699981,Dark, 1
+20,E83-7P,Condition 1 rep 1,1.10679996,Dark, 1
+21,E120-7GS,Condition 1 rep 1,1.074300051,Dark, 1
+22,E120-7P,Condition 1 rep 1,0.411799997,Dark, 1
+23,1%,Condition 1 rep 1,0.209900007,Dark, 1
+24,0.10%,Condition 1 rep 1,0.221200004,Dark, 1
+25,0.01%,Condition 1 rep 1,1.829300046,Dark, 1
+26,0.00%,Condition 1 rep 1,1.575299978,Dark, 1
+27,no PAC_no_puro,Condition 1 rep 2,1.789100051,Dark, 2
+28,PAC_wt_no_puro,Condition 1 rep 2,1.737200022,Dark, 2
+29,no PAC_puro,Condition 1 rep 2,0.355699986,Dark, 2
+30,PAC_wt_puro,Condition 1 rep 2,1.285400033,Dark, 2
+31,D29,Condition 1 rep 2,0.42050001,Dark, 2
+32,G58,Condition 1 rep 2,0.3495,Dark, 2
+33,V75,Condition 1 rep 2,0.397000015,Dark, 2
+34,S81,Condition 1 rep 2,1.449000001,Dark, 2
+35,V82,Condition 1 rep 2,1.220600009,Dark, 2
+36,E83,Condition 1 rep 2,1.629600048,Dark, 2
+37,A84,Condition 1 rep 2,1.597200036,Dark, 2
+38,G85,Condition 1 rep 2,1.483999968,Dark, 2
+39,A86,Condition 1 rep 2,1.401499987,Dark, 2
+40,S101,Condition 1 rep 2,0.640500009,Dark, 2
+41,G111,Condition 1 rep 2,0.332599998,Dark, 2
+42,K119,Condition 1 rep 2,0.563300014,Dark, 2
+43,E120,Condition 1 rep 2,0.725099981,Dark, 2
+44,P121,Condition 1 rep 2,0.663100004,Dark, 2
+45,P185,Condition 1 rep 2,0.718200028,Dark, 2
+46,E83-7GS,Condition 1 rep 2,1.461699963,Dark, 2
+47,E83-7P,Condition 1 rep 2,1.128399968,Dark, 2
+48,E120-7GS,Condition 1 rep 2,1.046599984,Dark, 2
+49,E120-7P,Condition 1 rep 2,0.421700001,Dark, 2
+50,1%,Condition 1 rep 2,0.211899996,Dark, 2
+51,0.10%,Condition 1 rep 2,0.222800002,Dark, 2
+52,0.01%,Condition 1 rep 2,0.959100008,Dark, 2
+53,0.00%,Condition 1 rep 2,1.526800036,Dark, 2
+54,no PAC_no_puro,Condition 1 rep 3,1.887699962,Dark, 3
+55,PAC_wt_no_puro,Condition 1 rep 3,1.731699944,Dark, 3
+56,no PAC_puro,Condition 1 rep 3,0.359800011,Dark, 3
+57,PAC_wt_puro,Condition 1 rep 3,1.413900018,Dark, 3
+58,D29,Condition 1 rep 3,0.449600011,Dark, 3
+59,G58,Condition 1 rep 3,0.327399999,Dark, 3
+60,V75,Condition 1 rep 3,0.395500004,Dark, 3
+61,S81,Condition 1 rep 3,1.189200044,Dark, 3
+62,V82,Condition 1 rep 3,1.019400001,Dark, 3
+63,E83,Condition 1 rep 3,1.233899951,Dark, 3
+64,A84,Condition 1 rep 3,1.292899966,Dark, 3
+65,G85,Condition 1 rep 3,1.402699947,Dark, 3
+66,A86,Condition 1 rep 3,1.357900023,Dark, 3
+67,S101,Condition 1 rep 3,0.624300003,Dark, 3
+68,G111,Condition 1 rep 3,0.35620001,Dark, 3
+69,K119,Condition 1 rep 3,0.548200011,Dark, 3
+70,E120,Condition 1 rep 3,0.695800006,Dark, 3
+71,P121,Condition 1 rep 3,0.651499987,Dark, 3
+72,P185,Condition 1 rep 3,0.753700018,Dark, 3
+73,E83-7GS,Condition 1 rep 3,1.592599988,Dark, 3
+74,E83-7P,Condition 1 rep 3,1.020400047,Dark, 3
+75,E120-7GS,Condition 1 rep 3,0.996599972,Dark, 3
+76,E120-7P,Condition 1 rep 3,0.444000006,Dark, 3
+77,1%,Condition 1 rep 3,0.212500006,Dark, 3
+78,0.10%,Condition 1 rep 3,0.224199995,Dark, 3
+79,0.01%,Condition 1 rep 3,0.985800028,Dark, 3
+80,0.00%,Condition 1 rep 3,1.712000012,Dark, 3
